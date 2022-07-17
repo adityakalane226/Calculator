@@ -1,0 +1,28 @@
+.text-center{
+    text-align:center;
+  }
+  
+  .bg-red{
+    background-color:red;
+  }
+  .mx-auto{
+    margin:auto;
+  }
+  .flex{
+    display:flex;
+    align-items:center;
+  }
+  .flex-col{
+    flex-direction:column;
+  }
+  .row{
+    margin:8px 0px;
+  }
+  .row input{
+    font-size:25px;
+    margin:0;
+    padding:10px 5px;
+    border:2px solid black;
+    border-radius:10px;
+  }
+  
